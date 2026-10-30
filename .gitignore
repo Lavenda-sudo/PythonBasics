@@ -7,10 +7,9 @@
 
 
 # git init
+# git config --global user.email "lavenda.sudo@gmail.com"
+# git config --global user.name "Lavenda-sudo"
 # git add .
 # git commit -m "PythonBasics"
-# git remote add origin https://github.com/Lavenda-sudo/PythonBasics.git
-# git branch -M main
 # git push -u origin main
-
 # pip freeze > requirements.txt
